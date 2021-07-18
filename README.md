@@ -21,16 +21,15 @@
 7. Библиотеки requests, random, bs4, pandas
 
 Как запустить код:
-1. Установить все нужные библиотки:
+Установить все нужные библиотки:
 
-    pip install pip install pyTelegramBotAPI requests wikipedia bs4}
+    pip install pip install pyTelegramBotAPI requests wikipedia bs4
 
 В качестве альтернативы, используйте:
 
     pip install -r requirements.txt
 
-2. Добавьте токен нашего Телеграмм бота
-3. Запустите локально:
+Добавьте токен нашего Телеграмм бота и запустите локально:
 
     python bot.py
 
