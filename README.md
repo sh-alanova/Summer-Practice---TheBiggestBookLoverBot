@@ -23,7 +23,7 @@
 Как запустить код:
 1. Установить все нужные библиотки:
 
-```pip install pip install pyTelegramBotAPI requests wikipedia bs4```
+"`{bash} {pip install pip install pyTelegramBotAPI requests wikipedia bs4}`"
 
 В качестве альтернативы, используйте:
 
