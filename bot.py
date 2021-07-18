@@ -5,7 +5,7 @@ import random
 from recommendation import book_recommendation
 from WikiFinder import WikiFinder
 
-TOKEN = "1906778670:AAFZIf6ZsRfXP4SnWEKJ7Bjc4xtWJKUOaFY"
+TOKEN = "Bot's Token"
 
 bot = telebot.TeleBot(TOKEN)
 
