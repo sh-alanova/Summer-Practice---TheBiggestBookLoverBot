@@ -21,6 +21,7 @@
 7. Библиотеки requests, random, bs4, pandas
 
 Как запустить код:
+
 Установить все нужные библиотки:
 
     pip install pip install pyTelegramBotAPI requests wikipedia bs4
